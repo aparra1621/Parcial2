@@ -26,4 +26,8 @@ Registrar usuarios validando correctamente:
 ## 📦 Estructura del proyecto
 
 ```bash
-Parcial
+Parcial2/
+├── Usuario.java              # Clase para almacenar los datos del usuario
+├── Validador.java            # Contiene los métodos de validación con regex
+├── RegistroUsuarioApp.java   # Clase principal con la lógica del programa
+└── README.md
